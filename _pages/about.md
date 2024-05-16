@@ -15,7 +15,7 @@ Research interests
 ------
 I am currently striving to (understand, interpret, improve) the (generalization, optimization, efficiency) of
 - Transferable machine learning: Meta-learning, Domain generalization, Imbalanced learning, etc.
-- General techniques for LLMs: Pre-training, Scaling, Planning etc.
+- General techniques for LLMs: Pre-training, Scaling, Planning, etc.
 
 
 
@@ -29,7 +29,7 @@ Yingtian Zou, Kenji Kawaguchi, Yingnan Liu, Jiashuo Liu, Mong-Li Lee, Wynne Hsu 
 
 
 **MixupE: Understanding and Improving Mixup from Directional Derivative Perspective** [[Codes]](https://github.com/oneHuster/MixupE) [[Paper]](https://arxiv.org/abs/2212.13381) [[Slides]](https://www.auai.org/uai2023/oral_slides/129-oral-slides.pdf) [[Video]](https://www.youtube.com/watch?v=Fnwi35bNZbo) \
-Yingtian Zou*, Vikas Verma*, Sarthak Mittal, Wai Hoh Tang, Hieu Pham, Juho Kannala, Yoshua Bengio, Arno Solin, Kenji Kawaguchi \
+Yingtian Zou\*, Vikas Verma\*, Sarthak Mittal, Wai Hoh Tang, Hieu Pham, Juho Kannala, Yoshua Bengio, Arno Solin, Kenji Kawaguchi \
 39th Conference on Uncertainty in Artificial Intelligence, UAI 2023 (**Best Student Paper**)
 
 **Unraveling Model-Agnostic Meta-Learning via The Adaptation Learning Rate**  [[Paper]](https://openreview.net/forum?id=3rULBvOJ8D2) [[Slides]](https://iclr.cc/media/iclr-2022/Slides/6474_9IX5Ooq.pdf) \
@@ -54,7 +54,7 @@ Academic Services
 
 Conference Reviewers: IJCAI 2024, AAAI 2020/2021/2023, NeurIPS 2023, ICML 2023/2024, ICLR 2022/2024
 
-Journal Reviewers: TPAMI, Pattern Recognition, IEEE access
+Journal Reviewers: TPAMI, Pattern Recognition, IEEE Access
 
 
 
