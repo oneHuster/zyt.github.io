@@ -28,7 +28,7 @@ Yingtian Zou, Kenji Kawaguchi, Yingnan Liu, Jiashuo Liu, Mong-Li Lee, Wynne Hsu 
 12th International Conference on Learning Representations, ICLR 2024 (**Spotlight, acceptance rate 5%**)
 
 
-**MixupE: Understanding and Improving Mixup from Directional Derivative Perspective** [[Codes]](https://github.com/oneHuster/MixupE) [[Paper]](https://arxiv.org/abs/2212.13381) [[Slides]](https://www.auai.org/uai2023/oral_slides/129-oral-slides.pdf) [[Video]](https://www.youtube.com/watch?v=Fnwi35bNZbo) \
+**MixupE: Understanding and Improving Mixup from Directional Derivative Perspective** [[Codes]](https://github.com/oneHuster/MixupE) [[Paper]](https://arxiv.org/abs/2212.13381) [[Slides]](https://www.auai.org/uai2023/oral_slides/129-oral-slides.pdf) [[Video]](https://www.youtube.com/watch?v=Fnwi35bNZbo) [[Spotlight]](https://www.comp.nus.edu.sg/bytes/2023-uai-best-student-paper-award) \
 Yingtian Zou\*, Vikas Verma\*, Sarthak Mittal, Wai Hoh Tang, Hieu Pham, Juho Kannala, Yoshua Bengio, Arno Solin, Kenji Kawaguchi \
 39th Conference on Uncertainty in Artificial Intelligence, UAI 2023 (**Best Student Paper**)
 
